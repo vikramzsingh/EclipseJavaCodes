@@ -1,0 +1,7 @@
+d
+abc
+This is Buffered Writer Testing.d
+abc
+This is Buffered Writer Testing.d
+abc
+This is Buffered Writer Testing.
